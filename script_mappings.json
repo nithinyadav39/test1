@@ -1,0 +1,36 @@
+{
+  "excel.xlsx": {
+    "scriptId": "1739858204463",
+    "redirectUrl": "/ask/1739858204463"
+  },
+  "General_Questions_and_Answers.xlsx": {
+    "scriptId": "1740719615956",
+    "redirectUrl": "/ask/1740719615956",
+    "clientName": "gk"
+  },
+  "fabric.xlsx": {
+    "scriptId": "1740032520198",
+    "redirectUrl": "/ask/1740032520198",
+    "clientName": "hlo"
+  },
+  "questions.xlsx": {
+    "scriptId": "1740381216460",
+    "redirectUrl": "/ask/1740381216460",
+    "clientName": "gani"
+  },
+  "company.xlsx": {
+    "scriptId": "1740657902011",
+    "redirectUrl": "/ask/1740657902011",
+    "clientName": "company"
+  },
+  "temple.xlsx": {
+    "scriptId": "1740717643438",
+    "redirectUrl": "/ask/1740717643438",
+    "clientName": "maneesha"
+  },
+  "companyy.xlsx": {
+    "scriptId": "1740995591987",
+    "redirectUrl": "/ask/1740995591987",
+    "clientName": "hi"
+  }
+}
